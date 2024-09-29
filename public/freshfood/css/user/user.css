@@ -1,0 +1,136 @@
+.emotion{
+	text-align: right;
+}
+.error-input{
+	color: red;
+	display: none;
+}
+.account-left{
+	border: 1px solid #e0e0e0;
+}
+.account-right{
+	border: 1px solid #e0e0e0;
+	float: right;
+}
+
+.item-action{
+	height: 50px;
+}
+.item-action:hover{
+	color: red;
+}
+.item-action a:hover{
+	text-decoration: none;
+	color: blue;
+}
+.avatar-account{
+	margin-top: 20px;
+}
+.account-title{
+	margin-top: 20px;
+	color: #222;
+	font-weight: 700;
+	font-size: 18px;
+}
+.name-account{
+	margin-top: 10px;
+	color: #4f4f4f;
+	font-size: 18px;
+	font-weight:700;
+}
+.active-item{
+	border-left: 5px solid #9f224e;
+	color: #9f224e;
+}
+.title-item-body{
+	color: #222;
+	font-size: 15px;
+	font-weight: 700
+}
+.page-content-category{
+	margin: 20px 0 20px 0;
+}
+.account-body-avatar .media-object{
+	width: 50px;
+	height: 50px;
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+
+}
+.avatar-account img{
+	width: 150px;
+	height: 150px;
+	border-radius:50%;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+
+}
+.account-body-post-title{
+	font-size: 15px;
+	color: #4f4f4f;
+	font-weight: 700;
+}
+.account-body-comment{
+	margin-top: 5px;
+	color: #222;
+	font-size: 15px;
+	line-height: 25px;
+}
+.account-body-created_at{
+	color: #828282;
+	font-size: 12px;
+	margin-bottom: 20px;
+}
+.info_user .item-fill-user {
+	width: 100%;
+	float: left;
+}
+.info_user .item-fill-user .label_fill {
+	width: 130px;
+	float: left;
+	font-size: 15px;
+	color: #828282;
+}
+.info_user .item-fill-user .ctn_fill {
+	float: right;
+	position: relative;
+	width: calc(100% - 130px);
+	border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+.info_user{
+	padding-bottom: 25px;
+	margin-bottom: 25px;
+}
+.main-search{
+	margin-top: 50px;
+}
+.page_404{
+	background: transparent center no-repeat;
+	width: 100%;
+	text-align: center;
+	background-size: cover;
+	padding-top: 50px;
+}
+.Ahihi404 span{
+	font-size: 550px;
+	line-height: 440px;
+	white-space: nowrap;
+}
+.txt_404{
+	float: left;
+	color: black;
+}
+.not_found{
+	font-size: 24px;
+	line-height: 24px;
+	margin-top: 70px;
+}
+.link_home{
+	margin-top: 96px;
+	font-size: 33px;
+	line-height: 97px;
+	padding-top: 33px;
+}
